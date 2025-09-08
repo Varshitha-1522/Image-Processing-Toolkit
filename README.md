@@ -40,6 +40,3 @@ Below are some example outputs from the app:
 
 ### Filtering Example
 ![Filter](570bfe04-2c2e-42a6-a556-9a2727a7aeed.png)
-
----
-✅ Developed using **Python, Streamlit, and OpenCV**
